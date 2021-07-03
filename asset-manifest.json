@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/AdityaShekharTiwary/nameit/static/css/main.30f58d41.chunk.css",
+    "main.js": "//github.com/AdityaShekharTiwary/nameit/static/js/main.1b40f6f0.chunk.js",
+    "main.js.map": "//github.com/AdityaShekharTiwary/nameit/static/js/main.1b40f6f0.chunk.js.map",
+    "runtime-main.js": "//github.com/AdityaShekharTiwary/nameit/static/js/runtime-main.5ab15e81.js",
+    "runtime-main.js.map": "//github.com/AdityaShekharTiwary/nameit/static/js/runtime-main.5ab15e81.js.map",
+    "static/js/2.34b87737.chunk.js": "//github.com/AdityaShekharTiwary/nameit/static/js/2.34b87737.chunk.js",
+    "static/js/2.34b87737.chunk.js.map": "//github.com/AdityaShekharTiwary/nameit/static/js/2.34b87737.chunk.js.map",
+    "static/js/3.5a0cc23e.chunk.js": "//github.com/AdityaShekharTiwary/nameit/static/js/3.5a0cc23e.chunk.js",
+    "static/js/3.5a0cc23e.chunk.js.map": "//github.com/AdityaShekharTiwary/nameit/static/js/3.5a0cc23e.chunk.js.map",
+    "index.html": "//github.com/AdityaShekharTiwary/nameit/index.html",
+    "static/css/main.30f58d41.chunk.css.map": "//github.com/AdityaShekharTiwary/nameit/static/css/main.30f58d41.chunk.css.map",
+    "static/js/2.34b87737.chunk.js.LICENSE.txt": "//github.com/AdityaShekharTiwary/nameit/static/js/2.34b87737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab15e81.js",
+    "static/js/2.34b87737.chunk.js",
+    "static/css/main.30f58d41.chunk.css",
+    "static/js/main.1b40f6f0.chunk.js"
+  ]
+}
